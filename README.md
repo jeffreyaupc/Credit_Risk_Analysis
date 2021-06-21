@@ -47,7 +47,7 @@ The Easy Ensemble Classifier model results in an accuracy score of 0.932. The re
 The recall for low risk (0.92) is higher than high risk (0.94). This means that the model labelled 92% of truly low risk profiles and 94% of truly high risk profiles.
 
 ## Summary
-The list of accuracy scores is as follows:
+The ranking of accuracy scores is as follows:
 1. 0.932 - Easy Ensemble Classifier
 2. 0.789 - Balanced Random Forest Classifier
 3. 0.662 - SMOTE Oversampling
